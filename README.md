@@ -1,6 +1,9 @@
 # Olá, eu sou Gabriel Durães :smile:
 
+[![github](https://raw.githubusercontent.com/goduraes/goduraes/master/img/git.png)](https://www.instagram.com/goduraes/)
+[![linkedin](https://raw.githubusercontent.com/goduraes/goduraes/master/img/linkedin.png)](https://www.instagram.com/goduraes/)
 [![Instagram](https://raw.githubusercontent.com/goduraes/goduraes/master/img/insta.png)](https://www.instagram.com/goduraes/)
+[![twitter](https://raw.githubusercontent.com/goduraes/goduraes/master/img/twitter.png)](https://www.instagram.com/goduraes/)
 
 ### :computer: Sobre 
 
