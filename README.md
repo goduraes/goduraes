@@ -1,6 +1,8 @@
 # Olá, eu sou Gabriel Durães :smile:
 
-### Sobre :computer:
+[![Instagram](/images/insta.png)](https://www.instagram.com/goduraes/)
+
+### :computer: Sobre 
 
 Graduado em Sistemas de Informação na Universidade Federal dos Vales do Jequitinhonha e Mucuri - Campus Diamantina.
 
