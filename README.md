@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Durães :smile:
 
-[![Instagram](img/insta.png)](https://www.instagram.com/goduraes/)
+[![Instagram](https://image.flaticon.com/icons/svg/174/174855.svg)](https://www.instagram.com/goduraes/)
 
 ### :computer: Sobre 
 
