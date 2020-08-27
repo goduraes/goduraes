@@ -1,9 +1,9 @@
 # Olá, eu sou Gabriel Durães :smile:
 
-[![github](https://raw.githubusercontent.com/goduraes/goduraes/master/img/git.svg)](https://github.com/goduraes)
-[![linkedin](https://raw.githubusercontent.com/goduraes/goduraes/master/img/linkedin.svg)](https://www.linkedin.com/in/gabriel-dur%C3%A3es-2a9189104/)
-[![Instagram](https://raw.githubusercontent.com/goduraes/goduraes/master/img/insta.svg)](https://www.instagram.com/goduraes/)
-[![twitter](https://raw.githubusercontent.com/goduraes/goduraes/master/img/twitter.svg)](https://twitter.com/ogduraes)
+[![github](https://raw.githubusercontent.com/goduraes/goduraes/master/img/git.png)](https://github.com/goduraes)
+[![linkedin](https://raw.githubusercontent.com/goduraes/goduraes/master/img/linkedin.png)](https://www.linkedin.com/in/gabriel-dur%C3%A3es-2a9189104/)
+[![Instagram](https://raw.githubusercontent.com/goduraes/goduraes/master/img/insta.png)](https://www.instagram.com/goduraes/)
+[![twitter](https://raw.githubusercontent.com/goduraes/goduraes/master/img/twitter.png)](https://twitter.com/ogduraes)
 
 ### :computer: Sobre 
 
